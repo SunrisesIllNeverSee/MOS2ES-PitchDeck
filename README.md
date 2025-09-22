@@ -1,4 +1,4 @@
-# MOS²ES — Artifact Deck A-0002: Tech Silos vs Rings
+# MOS²ES — Artifact Deck A-0000: Tech Silos vs Rings
 
 This repository contains the MOS²ES pitch deck framing the **Four Towers of Big Tech**  
 (Model Scale, Provenance, Evaluation, Deployment) and the **Four Rings of MOS²ES**  
