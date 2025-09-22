@@ -7,7 +7,7 @@ This repository contains the MOS²ES pitch deck framing the **Four Towers of Big
 ## Files
 - `MOS2ES_Silos.pdf` → Public-facing pitch deck
 - `artifact.manifest.json` → Provenance + content hashes
-- `/images` → Supporting visuals
+
 
 ## Purpose
 This artifact demonstrates how **MOS²ES provides the connective architecture** missing from  
