@@ -1,0 +1,14 @@
+{
+  "artifact_id": "A-0000",
+  "name": "Pitch Deck — Tech Silos vs Rings",
+  "system": "MOS2ES",
+  "version": "1.0.0",
+  "files": [
+    "MOS2ES_Silos.pdf",
+    "README.md",
+    "LICENSE"
+  ],
+  "sha256_bundle": "<compute SHA256 over concatenated files>",
+  "issued": "2025-09-21T00:00:00Z",
+  "notes": "Pitch deck artifact illustrating Four Towers vs Four Rings framing."
+}
