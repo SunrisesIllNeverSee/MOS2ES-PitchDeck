@@ -4,11 +4,11 @@
   "system": "MOS2ES",
   "version": "1.0.0",
   "files": [
-    "MOS2ES_Silos.pdf",
+    "MOS²ES_Silos.pdf",
     "README.md",
     "LICENSE"
   ],
-  "sha256_bundle": "<compute SHA256 over concatenated files>",
-  "issued": "2025-09-21T00:00:00Z",
+  "sha256_bundle": "<c5d33e968f165c8f6de584e7a55719423b276f8c906db8ef9b22cf7db269c99d7>",
+  "issued": "2025-09-23T12:00:00Z",
   "notes": "Pitch deck artifact illustrating Four Towers vs Four Rings framing."
 }

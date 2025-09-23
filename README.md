@@ -1,5 +1,7 @@
 # MOS²ES — Artifact Deck A-0000: Tech Silos vs Rings
 
+> 🧠 **Pro Tip:** You can copy any section of this repo and paste it into ChatGPT or another AI assistant to help decode, explain, or teach it back to you. Try it on equations, glossary terms, or architecture diagrams.
+
 This repository contains the MOS²ES pitch deck framing the **Four Towers of Big Tech**  
 (Model Scale, Provenance, Evaluation, Deployment) and the **Four Rings of MOS²ES**  
 (Compression, Lineage, Metrics, Governance).
