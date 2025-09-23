@@ -7,7 +7,7 @@ This repository contains the MOS²ES pitch deck framing the **Four Towers of Big
 (Compression, Lineage, Metrics, Governance).
 
 ## Files
-- `MOS2ES_Silos.pdf` → Public-facing pitch deck
+- `MOS²ES_Silos.pdf` → Public-facing pitch deck
 - `artifact.manifest.json` → Provenance + content hashes
 
 
