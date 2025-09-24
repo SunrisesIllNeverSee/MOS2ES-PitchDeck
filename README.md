@@ -31,7 +31,7 @@ MIT applies only to presentation artifacts. **Core MOS²ES runtime is proprietar
 Trademark filed: MOS§ES™ (IC 042, SaaS Signal Governance) Provisional patents pending — Signal Compression & Recursion Systems. Ello Cello LLC © 2025
 
 ## Contact
-Built by **Ello Cello LLC**  
-Email: deric.mchenry@gmail.com  
-Web: TBD
+© 2025 ElloCello LLC
+Proprietary Use License v0.1 — Public-facing proof only.
 
+Contact: burnmydays@proton.me
