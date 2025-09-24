@@ -27,7 +27,7 @@ Try it on **equations, glossary terms, or architecture diagrams** — it works.
 ---
 
 ## Files
-- `MO§ES™ Quickdeck .pdf` → Public-facing Quick Deck [11 pages] 9/24/25
+- `MOS2ESQD.pdf` → Public-facing Quick Deck [11 pages] 9/24/25
 - `MOS²ES_Silos-2.pdf` → Full pitch deck [17 pages] 9/22/25
 - `artifact.manifest.json` → Provenance + content hashes  
 - `README.md` → Repo overview  
