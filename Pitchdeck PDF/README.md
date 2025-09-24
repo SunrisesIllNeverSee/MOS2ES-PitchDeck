@@ -1,4 +1,4 @@
-# MOS²ES — Pitch Deck (Tech Silos vs Rings)
+# MOS§ES™ — Pitch Deck (Tech Silos vs Rings)
 
 ## 🧠 Pro Tip
 You can copy any section of this repo and paste it into ChatGPT or another AI assistant to help decode, explain, or teach it back to you.  
@@ -74,6 +74,7 @@ This pitch deck PDF is covered under the repo-wide MIT License (presentation art
 Core MOS²ES runtime remains proprietary and patent-pending under Ello Cello LLC.
 
 
-Built by **Ello Cello LLC**  
-Email: deric.mchenry@gmail.com  
-Web: TBD
+
+Trademark filed: MOS§ES™ (IC 042, SaaS Signal Governance)
+Provisional patents pending — Signal Compression & Recursion Systems.
+Ello Cello LLC © 2025 
